@@ -317,7 +317,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190521-wa0017-960x639.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -333,8 +333,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"antenatal.html\" data-toolbar=\"-mbrBtnMove\">ANTENAL CLASS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"services.html\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/22-1123x750.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/22-1-1123x750.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
