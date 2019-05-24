@@ -363,7 +363,7 @@
                 "title": "COMMITTED",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We are committed to the holistic care of every individual.",
+                "text": "We are committed to the holistic care of every individual",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"vaccination.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE</a>"
               }
             ]
