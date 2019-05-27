@@ -574,9 +574,6 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -1594,7 +1591,7 @@ body {
   color: #767676;
 }
 .cid-rr2AmubUWG {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/appointments-1082x720.jpg");
 }
@@ -1620,41 +1617,45 @@ body {
     padding-right: 5rem;
   }
 }
-.cid-rr2M0hSgDC {
+.cid-rrFQpMnwsg {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rr2M0hSgDC h3 {
+.cid-rrFQpMnwsg h3 {
   font-weight: 300;
 }
-.cid-rr2M0hSgDC .card-img {
+.cid-rrFQpMnwsg .card-img {
   width: initial;
 }
-.cid-rr2M0hSgDC .card-img .mbr-iconfont {
+.cid-rrFQpMnwsg .card-img .mbr-iconfont {
   font-size: 48px;
   padding-right: 1rem;
 }
-.cid-rr2M0hSgDC .media-container-row {
+.cid-rrFQpMnwsg .media-container-row {
   word-wrap: break-word;
   padding-bottom: 2rem;
   min-height: 100%;
 }
-.cid-rr2M0hSgDC .media {
+.cid-rrFQpMnwsg .media {
   margin: initial;
   align-items: center;
   -webkit-align-items: center;
 }
-.cid-rr2M0hSgDC .mbr-section-subtitle {
+.cid-rrFQpMnwsg .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rr2M0hSgDC .mbr-text {
+.cid-rrFQpMnwsg .mbr-text {
   color: #767676;
 }
-.cid-rr2M0hSgDC .media-container-column {
+.cid-rrFQpMnwsg .media-container-column {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+}
+.cid-rrFQpMnwsg .card-title,
+.cid-rrFQpMnwsg .card-img {
+  color: #ea665e;
 }
 .cid-rr2MvDlQdD {
   padding-top: 0px;
