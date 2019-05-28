@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DonVic",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,15 +13,15 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Source Sans Pro",
+        "display1Font": "Roboto",
         "display1Size": 4.25,
-        "display2Font": "Source Sans Pro",
+        "display2Font": "Roboto",
         "display2Size": 3,
-        "display5Font": "Source Sans Pro",
+        "display5Font": "Roboto",
         "display5Size": 1.5,
-        "display7Font": "Source Sans Pro",
+        "display7Font": "Roboto",
         "display7Size": 1,
-        "display4Font": "Source Sans Pro",
+        "display4Font": "Roboto",
         "display4Size": 1,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
@@ -39,6 +39,11 @@
         "css": "'Source Sans Pro', sans-serif",
         "name": "Source Sans Pro",
         "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
     "uniqCompNum": 156,
