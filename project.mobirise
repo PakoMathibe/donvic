@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DonVic",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -316,25 +316,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/22-1-1123x750.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Caring Hearts and Spreading Smiles",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "We offer the best quality service to all our clients at all times",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"antenatal.html\" data-toolbar=\"-mbrBtnMove\">ANTENAL CLASS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"services.html\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/committed-1-1124x800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -349,6 +332,23 @@
                 "text": "We are committed to the holistic care of every individual",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"services.html\" data-toolbar=\"-mbrBtnMove\">Our Services</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
                 "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/22-1-1123x750.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Caring Hearts and Spreading Smiles",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We offer the best quality service to all our clients at all times",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"antenatal.html\" data-toolbar=\"-mbrBtnMove\">ANTENAL CLASS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"services.html\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/born-1124x800.jpg",
